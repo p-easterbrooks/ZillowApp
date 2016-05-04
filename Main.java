@@ -4,7 +4,7 @@ package XML_Parsing;
 public class Main {
 
 	public static void main(String[] args) throws Exception {
-		String zwsId = "X1-ZWz1ez8o35oikr_44w9p";
+		String zwsId = "ZillowDEVid";
 		String state = "VA";
 		GetLocation.getLoca(zwsId, state);
 		//GetCountyinfoVa.getCountyInfo(zwsId, state);
